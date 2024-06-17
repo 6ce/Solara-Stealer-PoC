@@ -1,4 +1,4 @@
-# Solara-Stealer-PoC
+# Solara Stealer PoC
 Writeup on stealing roblox accounts with Solara
 
 # Introduction
