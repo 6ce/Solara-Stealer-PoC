@@ -9,7 +9,7 @@ Under the "[Roblox authentication web API](https://auth.roblox.com)", a feature 
 
 Now, with 'RequestInternal', you cannot use the function with a normal LocalScript, as if you could you could perform actions maliciously using the user's cookie(s). The issue, is that Solara, did not block this function for use in the execution, therefore the user using Solara is vulnerable to the exploitation of 'RequestInternal'.
 
-# PoC
+# PoC of account hijacking
 https://streamable.com/837cg4
 
 # Example of Session Hijacking
