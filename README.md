@@ -4,6 +4,8 @@ Writeup on stealing roblox accounts with Solara
 # Disclaimer
 **This is now patched**. (as of 06/19/2024)
 
+You can view a script I made to steal a Roblox account's information [here](stealer.lua)
+
 # Introduction
 [RequestInternal](https://robloxapi.github.io/ref/class/HttpService.html#member-RequestInternal) is a 'CoreScript' function in Roblox that allows the Roblox engine to interact with Roblox’s internal web APIs. This function is essential for interacting with Roblox's web API's as the user. This write-up will focus on its use in session hijacking, and other potential uses.
 
